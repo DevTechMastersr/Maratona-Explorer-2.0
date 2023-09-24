@@ -11,7 +11,6 @@ Site Desenvolvido na Maratona Explorer-2.0
 
 Tecnologias Utilizadas para Programar:
 
-.Vs Code
 
 . Html5
 
